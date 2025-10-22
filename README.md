@@ -2,8 +2,7 @@
 ## Kurulum
 1- Projeyi klonlayın<br>
 2- Ana dizindeyken aşağıdaki kodu çalıştırın<br>
-```bash
-docker-compose up --build```<br>
+docker-compose up --build<br>
 3- Proje ayağa kalkınca tarayıcıdan bu adrese gidin<br>
 http://localhost:8080<br>
 
