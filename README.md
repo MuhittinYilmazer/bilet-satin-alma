@@ -1,7 +1,7 @@
 # bilet-satin-alma
-Kurulum:
-1- Projeyi klonlayın
-2- Ana dizindeyken aşağıdaki kodu çalıştırın
+Kurulum:<br>
+1- Projeyi klonlayın<br>
+2- Ana dizindeyken aşağıdaki kodu çalıştırın<br>
 docker-compose up --build
 3- Proje ayağa kalkınca tarayıcıdan bu adrese gidin 
 http://localhost:8080
