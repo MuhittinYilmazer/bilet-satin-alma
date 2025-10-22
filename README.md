@@ -7,7 +7,7 @@ docker-compose up --build<br>
 http://localhost:8080<br>
 
 ## Kullanıcılar
-varsayılan şifre: asd<br>
+Varsayılan şifre: asd<br>
 Genel Admin - admin@example.com<br>
 Kamil Koç Admin - kamil@example.com<br>
 Metro Admin - metro@example.com<br>
