@@ -1,27 +1,28 @@
 # bilet-satin-alma
-Kurulum:<br>
+## Kurulum
 1- Projeyi klonlayın<br>
 2- Ana dizindeyken aşağıdaki kodu çalıştırın<br>
-docker-compose up --build
-3- Proje ayağa kalkınca tarayıcıdan bu adrese gidin 
-http://localhost:8080
+```bash
+docker-compose up --build```<br>
+3- Proje ayağa kalkınca tarayıcıdan bu adrese gidin<br>
+http://localhost:8080<br>
 
-Kullanıcılar:
-varsayılan şifre: asd
-Genel Admin - admin@example.com
-Kamil Koç Admin - kamil@example.com
-Metro Admin - metro@example.com
-Pamukkale Admin - pamuk@example.com,
-Normal User - user@example.com
+## Kullanıcılar
+varsayılan şifre: asd<br>
+Genel Admin - admin@example.com<br>
+Kamil Koç Admin - kamil@example.com<br>
+Metro Admin - metro@example.com<br>
+Pamukkale Admin - pamuk@example.com<br>
+Normal User - user@example.com<br>
 
-Test Edilebilir Sefer Güzergahları:
-İstanbul - Ankara
-Ankara - İstanbul
-İzmir - Antalya
-Antalya - İzmir
-Bursa - Denizli
+## Test Edilebilir Sefer Güzergahları
+İstanbul - Ankara<br>
+Ankara - İstanbul<br>
+İzmir - Antalya<br>
+Antalya - İzmir<br>
+Bursa - Denizli<br>
+Denizli - Bursa<br>
 
-Denizli - Bursa
-Kuponlar:
-GENEL10 (%10 İndirim, Tüm Firmalarda Geçerli)
-KAMIL15 (%15 İndirim, Sadece Kamil Koç'ta Geçerli)
+## Kuponlar
+GENEL10 (%10 İndirim, Tüm Firmalarda Geçerli)<br>
+KAMIL15 (%15 İndirim, Sadece Kamil Koç'ta Geçerli)<br>
