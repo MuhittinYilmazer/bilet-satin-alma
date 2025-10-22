@@ -1,9 +1,10 @@
 # bilet-satin-alma
 ## Kurulum
-1- Projeyi klonlayın<br>
-2- Ana dizindeyken aşağıdaki kodu çalıştırın<br>
+1- Projeyi klonlayın ve dışarı çıkarın<br>
+2- sudo chmod 777 -R bilet-satin-alma-main/
+3- Ana dizindeyken aşağıdaki kodu çalıştırın<br>
 docker-compose up --build<br>
-3- Proje ayağa kalkınca tarayıcıdan bu adrese gidin<br>
+4- Proje ayağa kalkınca tarayıcıdan bu adrese gidin<br>
 http://localhost:8080<br>
 
 ## Kullanıcılar
