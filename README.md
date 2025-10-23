@@ -1,7 +1,7 @@
 # bilet-satin-alma
 ## Kurulum
 1- Projeyi klonlayın ve dışarı çıkarın<br>
-2- sudo chmod 777 -R bilet-satin-alma-main/
+2- sudo chmod 777 -R bilet-satin-alma-main/<br>
 3- Ana dizindeyken aşağıdaki kodu çalıştırın<br>
 docker-compose up --build<br>
 4- Proje ayağa kalkınca tarayıcıdan bu adrese gidin<br>
